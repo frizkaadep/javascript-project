@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/frizkaadep/javascript-project/issues"
   },
-  "homepage": "https://github.com/frizkaadep/javascript-project#readme"
+  "homepage": "https://github.com/frizkaadep/javascript-project#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
