@@ -12,3 +12,7 @@ console.log(`Mode environment: ${environment}`);
 console.log(
   `Penggunaan memori dari ${initialMemoryUsage} naik ke ${currentMemoryUsage}`
 );
+
+
+// jalan kan dengan perintah 
+// NODE_ENV=development node ./nodejs-basic/process-object/index.js nama anda
